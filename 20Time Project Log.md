@@ -37,3 +37,13 @@ issue. I have not started *A Thousand Miles To Freedom* yet, but one of my goals
 halfway through that book. I have also put together some channel art with a painting app on my MacBook, and will
 continue to work on that in the coming weeks, as well. However, my main focus for the coming week will be to create
 my new channel, make a catchy name and begin learning how to use video-editing and animation software.
+
+### Thursday, October 4, 2017: Day 5
+
+Yesterday I acquired a lavalier microphone. I intend to use it to record audio that will be used in my YouTube videos.
+I am still learning how to use iMovie, as I do not have a lot of experience with making videos and using video-editing
+software. My main source of information in that area comes from articles and video tutorials. I also encountered a small
+problem today: my MacBook does not recognize the external microphone, so I currently cannot make use of it. However, I
+know from video tutorials that many other people have had the same problem and solved it, so I am determined to try and
+figure out how. I might ask the Robotics club teacher at AY for help if I really need to. Once I get over this litle
+problem, I can begin making and uploading videos.
