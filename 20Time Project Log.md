@@ -38,7 +38,7 @@ halfway through that book. I have also put together some channel art with a pain
 continue to work on that in the coming weeks, as well. However, my main focus for the coming week will be to create
 my new channel, make a catchy name and begin learning how to use video-editing and animation software.
 
-### Thursday, October 4, 2017: Day 5
+### Thursday, October 5, 2017: Day 5
 
 Yesterday I acquired a lavalier microphone. I intend to use it to record audio that will be used in my YouTube videos.
 I am still learning how to use iMovie, as I do not have a lot of experience with making videos and using video-editing
@@ -47,3 +47,13 @@ problem today: my MacBook does not recognize the external microphone, so I curre
 know from video tutorials that many other people have had the same problem and solved it, so I am determined to try and
 figure out how. I might ask the Robotics club teacher at AY for help if I really need to. Once I get over this litle
 problem, I can begin making and uploading videos.
+
+
+### Saturday, October 7, 2017: Day 7
+
+I had to stay at school until after 11 on Thursday because all Student Council members were needed to help with the dance.
+Also, I had to work Friday evening and today at noon. The rest of my time has been taken up by homework from school.
+Therefore, I didn't get as much work done on my 20time project as I would have liked. I also have to work next Tuesday, so
+this weekend I will try to get all of my homework completed and if I have time left over, I will work on my 20time project.
+I haven't figured out how to use the lav mic with my MacBook yet, so I haven't been making videos. But I am rereading *Escape
+from Camp 14* and taking research notes. I might ask Mr. O on Tuesday to help me with the microphone.
