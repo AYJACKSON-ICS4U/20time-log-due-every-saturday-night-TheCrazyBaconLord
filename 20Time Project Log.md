@@ -56,4 +56,8 @@ Also, I had to work Friday evening and today at noon. The rest of my time has be
 Therefore, I didn't get as much work done on my 20time project as I would have liked. I also have to work next Tuesday, so
 this weekend I will try to get all of my homework completed and if I have time left over, I will work on my 20time project.
 I haven't figured out how to use the lav mic with my MacBook yet, so I haven't been making videos. But I am rereading *Escape
-from Camp 14* and taking research notes. I might ask Mr. O on Tuesday to help me with the microphone.
+from Camp 14* and taking research notes. I might ask Mr. O on Tuesday to help me with the microphone. I also need to decide
+what I'm going to say in my first video, so I might start putting together a speech and keeping it in the same repo on Github
+as my log. So my goals for this coming week will be to fix the problem with the mic and also write the speech. I also decided
+on Supreme Leader Albert as my YouTuber name. It's pretty catchy, it's related to the topic I will be making videos on, and it
+isn't difficult to remember.
