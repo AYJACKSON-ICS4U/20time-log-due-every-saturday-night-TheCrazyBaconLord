@@ -1,0 +1,11 @@
+#### North Korea in 5 Minutes: Escape
+
+For many North Koreans hoping to escape the clutches of their brutish dictatorship, South Korea is the ultimate goal. The South Korean government automatically grants citizenship to all defectors from the North who are not spies, and provides them with a monthly stipend to live off of. So how does one escape from North Korea, then?
+
+There are many different ways to escape North Korea, each with their own advantages and difficulties. How you escape ultimately depends on how much money and resources you have access to. So if you're a penniless rural fisherman, well, you're shit out of luck.
+
+###### Crossing the DMZ
+Military service is compulsory for all able-bodied North Korean citizens. If you are lucky enough to be assigned as a border guard at the DMZ, then your escape will be easy. There are not many cases of North Korean soldiers abandoning their posts and surrendering themselves to the South, but it has happened before. In terms of distance travelled, this method is by far the shortest, seeing as the DMZ is less than three miles wide. However, those three miles contain some of the most dangerous terrain that you will ever naviagate in your life. The ironically named demilitarized zone is riddled with barbed wire and landmines. Not to mention, the DMZ is under constant surveillance by both sides. But if you are willing to risk it, crossing the DMZ is arguably the fastest way to escape North Korea.
+
+###### Fleeing to China
+Life is especially tough in the rural northern provinces of North Korea, but the proximity to the Chinese border presents an opportunity. Crossing said border is much easier than crossing the DMZ due to lack of surveillance and bribable guards. North Koreans can escape by offering cigarettes and food to hungry soldiers, who in turn allow them to pass freely. The crossing itself is relatively low-risk, but after that comes a long journey down through China to Vietnam or Laos, which is not easy when you have little money, no ID, and speak rudimentary Chinese. Not to mention, China has an agreement with North Korea to send back any defectors who are caught. So steer clear of petty crime as a way to get money, because the less attention you get from law enforcement, the better. Your best bet may be to look for a South Korean embassy within China.
