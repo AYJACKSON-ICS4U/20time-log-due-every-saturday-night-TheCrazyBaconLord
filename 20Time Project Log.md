@@ -38,7 +38,7 @@ halfway through that book. I have also put together some channel art with a pain
 continue to work on that in the coming weeks, as well. However, my main focus for the coming week will be to create
 my new channel, make a catchy name and begin learning how to use video-editing and animation software.
 
-### Thursday, October 5, 2017: Day 5
+### Thursday, October 5, 2017: Day 6
 
 Yesterday I acquired a lavalier microphone. I intend to use it to record audio that will be used in my YouTube videos.
 I am still learning how to use iMovie, as I do not have a lot of experience with making videos and using video-editing
@@ -49,7 +49,7 @@ figure out how. I might ask the Robotics club teacher at AY for help if I really
 problem, I can begin making and uploading videos.
 
 
-### Saturday, October 7, 2017: Day 7
+### Saturday, October 7, 2017: Day 8
 
 I had to stay at school until after 11 on Thursday because all Student Council members were needed to help with the dance.
 Also, I had to work Friday evening and today at noon. The rest of my time has been taken up by homework from school.
@@ -61,3 +61,8 @@ what I'm going to say in my first video, so I might start putting together a spe
 as my log. So my goals for this coming week will be to fix the problem with the mic and also write the speech. I also decided
 on Supreme Leader Albert as my YouTuber name. It's pretty catchy, it's related to the topic I will be making videos on, and it
 isn't difficult to remember.
+
+
+### Sunday, October 15, 2017: Day 16
+
+This has been sort of a disappointing week. I have a bit of catching up to do on my work. It occurs to me that I still haven't put the 4 completed HTML projects onto a GitHub repo for ICS4U. I will do that immediately after I have finished wriing this log. I also haven't been able to get my external microphone to work with my MacBook. Mr. O has advised me to just make use of the built-in microphone for now in my videos. He's probably right: it's a better idea to go with what already works than to spend money buying a new adapter that may or may not work. So I've decided that this week, I will go ahead with making videos. First, I have to decide what content to include in my videos. I'll probably put that in this repo on GitHub as well. I also have to make some artwork and look for background music and sound effects that I can use in my video. I will also have to keep the videos short (not more than 3 minutes). In spite of this week's setbacks, I believe that the project's results in the end will be all worth it, so I will continue to work hard and get the YouTube channel up and running.
