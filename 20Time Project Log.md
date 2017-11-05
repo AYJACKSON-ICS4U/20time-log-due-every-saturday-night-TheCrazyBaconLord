@@ -87,3 +87,5 @@ Well, I've had enough. Last Sunday, I had an entire day to work. I decided to ab
 
 Now here's where the bad news comes. I am starting to work on Khan Academy projects locally on my computer, using Atom as a text editor. For some reason unbeknownst to me, Atom really doesn't like it when I try to use PVectors in JS. So I am completely stuck until I can get that to work. I might have to ask Mr. O for help. I feel like he might get a little pissed off that I'm constantly asking him for help instead of figuring stuff out on my own, but I've already spent two hours trying to fix this one single problem, and I'm exhausted. But I'm still keeping my hopes up that there's a solution to this problem.
 
+NEVER WILL I GET PISSED OFF FOR YOU ASKING ME ANYTHING. IF I GET PISSED OFF I AM NOT DOING MY JOB CORRECTLY.
+
